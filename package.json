@@ -1,0 +1,26 @@
+{
+  "name": "nameofthelanguage",
+  "version": "1.0.0",
+  "description": "Recognise the language based on your input",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KukicVidan/nameOfTheLanguage.git"
+  },
+  "author": "Vidan Kukic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KukicVidan/nameOfTheLanguage/issues"
+  },
+  "homepage": "https://github.com/KukicVidan/nameOfTheLanguage#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.2.0",
+    "langs": "^2.0.0",
+    "linebyline": "^1.3.0"
+  }
+}
