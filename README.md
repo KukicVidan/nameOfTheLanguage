@@ -1,7 +1,7 @@
 
 # Name of the Language
 
-it just tells you what language you just pasted or typed.
+it just tells you what language you  pasted or typed.
 My little project to practice using npm packages.
 
 ## Installation
