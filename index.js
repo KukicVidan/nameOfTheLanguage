@@ -13,7 +13,7 @@ const rl = readline.createInterface({
 rl.question('Type or paste in any language: '.blue, (input) => {
   // Use the franc package to detect the language
   const langCode = franc(input);
-
+//und = undefined
   if (langCode === 'und') {
     console.log('Sorry, we could not figure out the language.'.red);
   } else {
