@@ -1,7 +1,7 @@
 
 # Name of the Language
 
-it just tells you what language you  pasted or typed.
+language recognition app
 My little project to practice using npm packages.
 
 ## Installation
